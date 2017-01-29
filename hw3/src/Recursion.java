@@ -1,29 +1,7 @@
 import java.util.Arrays;
 
 /**
- * This is a skeleton file for your homework. Edit the sections marked TODO. You
- * may add new functions. You may also edit the function "main" to test your
- * code.
- *
- * You must not add static variables. You MAY add static functions, just not
- * static variables.
- *
- * It is okay to add functions, such as
- *
- * <pre>
- *     public static double sumHelper (double[] list, int i, double sumSoFar) {
- * </pre>
- *
- * but it is NOT okay to add static variables, such as
- *
- * <pre>
- * public static int x;
- * </pre>
- *
- * As for homework 1, you must not change the declaration of any method.
- * 
- * You can edit the main function all you want. I will not run your main
- * function when grading.
+ 
  */
 public class Recursion {
 
